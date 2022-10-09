@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Using Include="ILGPUTest" />
     <Using Include="ILGPU" />
     <Using Include="ILGPU.Runtime" />
     <Using Include="ILGPU.Runtime.CPU" />
