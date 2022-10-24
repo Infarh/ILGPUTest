@@ -1,6 +1,7 @@
 ﻿
 //BaseTest.Run();
 //EnumAcceleratorsTest.Run();
-ArrayMultiplyTest.Run();
+//ArrayMultiplyTest.Run();
+MatrixMultiplyTest.RunSimple();
 
 Console.WriteLine("End!");
