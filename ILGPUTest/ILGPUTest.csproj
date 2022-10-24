@@ -9,9 +9,12 @@
 
   <ItemGroup>
     <Using Include="ILGPUTest" />
+    <Using Include="ILGPUTest.Infrastructure.Extensions" />
     <Using Include="ILGPU" />
     <Using Include="ILGPU.Runtime" />
     <Using Include="ILGPU.Runtime.CPU" />
+    <Using Include="ILGPU.Runtime.Cuda" />
+    <Using Include="ILGPU.Runtime.OpenCL" />
   </ItemGroup>
 
   <ItemGroup>
