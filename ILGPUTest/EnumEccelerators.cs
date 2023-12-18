@@ -1,6 +1,6 @@
 ﻿namespace ILGPUTest;
 
-public static class EnumAcceleratorsTest
+internal static class EnumAcceleratorsTest
 {
     public static void Run()
     {
@@ -12,6 +12,5 @@ public static class EnumAcceleratorsTest
             Console.WriteLine("{0}.", i++);
             Console.WriteLine(device);
         }
-
     }
 }

@@ -3,7 +3,7 @@ using Data = ILGPU.ArrayView<int>;
 
 namespace ILGPUTest;
 
-public static class CopyArrayDataTest
+internal static class CopyArrayDataTest
 {
     public static void Run()
     {
